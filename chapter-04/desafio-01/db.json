@@ -1,0 +1,238 @@
+{
+  "continent": [
+    { 
+      "id": 1, 
+      "slug": "north-america",
+      "name": "América do Norte",
+      "shortDescription": "O continente mais desenvolvido",
+      "bgSlide": "/images/slide/north-america.jpg",
+      "bgImage": "https://images.unsplash.com/photo-1588272947922-21cbc34dc3a7?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=80&raw_url=true&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470",
+      "description": "Os principais países da América do Norte são respectivamente Estados Unidos e Canadá, pois se destacam no cenário mundial como potências mundiais e pertencem ao grupo dos países mais ricos, o G-8, especialmente os Estados Unidos que são considerados a maior força mundial do momento.Essas duas nações proporcionam à sua população uma alta qualidade de vida proveniente do elevado nível industrial, tecnológico e econômico. O extremo norte é a região mais despovoada da América do Norte isso por que o clima no local é rigoroso, desse modo dificulta o desenvolvimento de várias atividades humanas.",
+      "qtdCountry": "3",
+      "qtdLanguage": "4",
+      "qtdCityPlus100": "11",
+      "cityPlus100": [
+        {
+          "cityName": "Ottawa",
+          "countryName": "Canadá",
+          "cityUrl": "https://images.unsplash.com/photo-1613059488547-0fc691db5231?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=80&raw_url=true&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074",
+          "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/305px-Flag_of_Canada_%28Pantone%29.svg.png"
+        },
+        {
+          "cityName": "Washington D.C",
+          "countryName": "Estados Unidos",
+          "cityUrl": "https://images.unsplash.com/photo-1557160854-e1e89fdd3286?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=80&raw_url=true&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1468",
+          "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/2560px-Flag_of_the_United_States.svg.png"
+        },
+        {
+          "cityName": "Cidade do México",
+          "countryName": "México",
+          "cityUrl": "https://images.unsplash.com/photo-1584669727833-88b47506defb?ixlib=rb-1.2.1&raw_url=true&q=80&fm=jpg&crop=entropy&cs=tinysrgb&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1062",
+          "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/1200px-Flag_of_Mexico.svg.png"
+        }
+      ] 
+    },
+    { 
+      "id": 2, 
+      "slug": "south-america",
+      "name": "América do Sul",
+      "shortDescription":"O continente com maior biodiversidade",
+      "bgSlide": "/images/slide/south-america.jpg",
+      "bgImage": "https://images.unsplash.com/photo-1518638150340-f706e86654de?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=80&raw_url=true&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1467",
+      "description": "A América do Sul é um subcontinente que faz parte do continente americano. Apresenta área de 17 milhões de km², com a maior extensão situada no hemisfério sul do planeta Terra. A população sul-americana é de mais de 434 milhões de habitantes, a qual é distribuída por 12 países e um departamento ultramarino francês. Trata-se de uma região com aspectos climáticos e geomorfológicos bastante diversos e únicos, que abriga feições como a Cordilheira dos Andes e a Planície Amazônica, além de uma enorme biodiversidade.",
+      "qtdCountry": "13",
+      "qtdLanguage": "9",
+      "qtdCityPlus100": "19",
+      "cityPlus100": [
+        {
+          "cityName": "Buenos Aires",
+          "countryName": "Argentina",
+          "cityUrl": "https://images.unsplash.com/photo-1611599654038-84ebdcde6598?ixlib=rb-1.2.1&raw_url=true&q=80&fm=jpg&crop=entropy&cs=tinysrgb&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074",
+          "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/1200px-Flag_of_Argentina.svg.png"
+        },
+        {
+          "cityName": "Brasília",
+          "countryName": "Brasil",
+          "cityUrl": "https://images.unsplash.com/photo-1625426242692-f6a828420402?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=80&raw_url=true&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1974",
+          "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/1280px-Flag_of_Brazil.svg.png"
+        },
+        {
+          "cityName": "La Paz",
+          "countryName": "Bolívia",
+          "cityUrl": "https://images.unsplash.com/photo-1596118769843-08e9ad381ab0?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=80&raw_url=true&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1474",
+          "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Flag_of_Bolivia_%28state%29.svg/640px-Flag_of_Bolivia_%28state%29.svg.png"
+        },
+        {
+          "cityName": "Santiago",
+          "countryName": "Chile",
+          "cityUrl": "https://images.unsplash.com/photo-1597006438013-0f0cca2c1a03?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=80&raw_url=true&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074",
+          "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/2560px-Flag_of_Chile.svg.png"
+        },
+        {
+          "cityName": "Bogotá",
+          "countryName": "Colômbia",
+          "cityUrl": "https://images.unsplash.com/photo-1568632234157-ce7aecd03d0d?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=80&raw_url=true&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470",
+          "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/255px-Flag_of_Chile.svg.png"
+        }
+      ] 
+    },
+    { 
+      "id": 3, 
+      "slug": "asia",
+      "name": "Asia",
+      "shortDescription":"O maior continente da Terra",
+      "bgSlide": "/images/slide/asia.png",
+      "bgImage": "https://images.unsplash.com/photo-1535139262971-c51845709a48?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=80&raw_url=true&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470",
+      "description": "A Ásia é o maior dos continentes, tanto em área como em população. Abrange um terço das partes sólidas da superfície da Terra e é responsável por abrigar quase três quintos da população mundial. A Ásia faz fronteira no lado ocidental com a África e com a Europa, e no lado oriental com o oceano Pacífico, a Oceania e, em menor proporção, com a América do Norte, pelo Estreito de Bering.",
+      "qtdCountry": "50",
+      "qtdLanguage": "51",
+      "qtdCityPlus100": "24",
+      "cityPlus100": [
+        {
+          "cityName": "Péquim",
+          "countryName": "China",
+          "cityUrl": "https://images.unsplash.com/photo-1509265226434-5f4ddbdb2f7a?ixlib=rb-1.2.1&raw_url=true&q=80&fm=jpg&crop=entropy&cs=tinysrgb&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470",
+          "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/255px-Flag_of_the_People%27s_Republic_of_China.svg.png"
+        },
+        {
+        "cityName": "Cingapura",
+          "countryName": "Cingapura",
+          "cityUrl": "https://images.unsplash.com/flagged/photo-1562503542-2a1e6f03b16b?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=80&raw_url=true&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074",
+          "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Singapore.svg/800px-Flag_of_Singapore.svg.png"
+        },
+        {
+          "cityName": "Seoul",
+          "countryName": "Coreia do Sul",
+          "cityUrl": "https://images.unsplash.com/photo-1619179834700-7a886aac80cc?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=80&raw_url=true&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1469",
+          "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/1024px-Flag_of_South_Korea.svg.png"
+        },        
+        {
+          "cityName": "Tóquio",
+          "countryName": "Japão",
+          "cityUrl": "https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=80&raw_url=true&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1494",
+          "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/2000px-Flag_of_Japan.svg.png"
+        },
+        {
+          "cityName": "Nova Delí",
+          "countryName": "Índia",
+          "cityUrl": "https://images.unsplash.com/photo-1524492412937-b28074a5d7da?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=80&raw_url=true&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1471",
+          "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_India.svg/1280px-Flag_of_India.svg.png"
+        }
+      ] 
+    },
+    { 
+      "id": 4, 
+      "slug": "africa",
+      "name": "África",
+      "shortDescription":"O continente que abriga as antigas pirâmides",
+      "bgSlide": "/images/slide/africa.jpg",
+      "bgImage": "https://images.unsplash.com/photo-1606419599053-a6dd76bcd8d8?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=80&raw_url=true&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470",
+      "description": "A África é o terceiro continente mais extenso (depois da Ásia e da América) com cerca de 30 milhões de quilômetros quadrados, cobrindo 20,3% da área total da terra firme do planeta. É o segundo continente mais populoso da Terra (atrás da Ásia) com cerca de um bilhão de pessoas (estimativa para 2005[1]), representando cerca de um sétimo da população mundial, e 54 países independentes. Tem se transformado na ultima década em uma continente cada vez mais católico.[2]",
+      "qtdCountry": "54",
+      "qtdLanguage": "~3000",
+      "qtdCityPlus100": "11",
+      "cityPlus100": [
+        {
+          "cityName": "Cidade do Cabo",
+          "countryName": "África do Sul",
+          "cityUrl": "https://images.unsplash.com/photo-1552937075-967cf58b74a4?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=80&raw_url=true&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470",
+          "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/1200px-Flag_of_South_Africa.svg.png"
+        },
+        {
+          "cityName": "Caíro",
+          "countryName": "Egito",
+          "cityUrl": "https://images.unsplash.com/photo-1572252009286-268acec5ca0a?ixlib=rb-1.2.1&raw_url=true&q=80&fm=jpg&crop=entropy&cs=tinysrgb&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470",
+          "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/1200px-Flag_of_Egypt.svg.png"
+        },
+        {
+          "cityName": "Antananarivo",
+          "countryName": "Ilhas de Madagascar",
+          "cityUrl": "https://images.unsplash.com/photo-1563656353898-febc9270a0f6?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=80&raw_url=true&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070",
+          "flag": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Madagascar.svg"
+        },
+        {
+          "cityName": "Rabat",
+          "countryName": "Marrocos",
+          "cityUrl": "https://images.unsplash.com/photo-1568652637511-43cc2a69c6b4?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=80&raw_url=true&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470",
+          "flag": "data:image/png;base64,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"
+        }
+      ] 
+    },
+    { 
+      "id": 5, 
+      "slug": "europe",
+      "name": "Europa",
+      "shortDescription":"O continente mais antigo",
+      "bgSlide": "/images/slide/europe.png",
+      "bgImage": "https://images.unsplash.com/photo-1473951574080-01fe45ec8643?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=80&raw_url=true&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1504",
+      "description": "A Europa é, por convenção, um dos seis continentes do mundo. Compreendendo a península ocidental da Eurásia, a Europa geralmente divide-se da Ásia a leste pela divisória de águas dos montes Urais, o rio Ural, o mar Cáspio, o Cáucaso, e o mar Negro a sudeste",
+      "qtdCountry": "50",
+      "qtdLanguage": "60",
+      "qtdCityPlus100": "27",
+      "cityPlus100": [
+        {
+          "cityName": "Londres",
+          "countryName": "Reino Unido",
+          "cityUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=80&raw_url=true&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470",
+          "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/255px-Flag_of_the_United_Kingdom_%283-5%29.svg.png"
+        },
+        {
+          "cityName": "Paris",
+          "countryName": "França",
+          "cityUrl": "https://images.unsplash.com/photo-1502602898657-3e91760cbb34?ixlib=rb-1.2.1&raw_url=true&q=80&fm=jpg&crop=entropy&cs=tinysrgb&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1473",
+          "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_France_%281794%E2%80%931815%2C_1830%E2%80%931974%2C_2020%E2%80%93present%29.svg/255px-Flag_of_France_%281794%E2%80%931815%2C_1830%E2%80%931974%2C_2020%E2%80%93present%29.svg.png"
+        },
+        {
+          "cityName": "Roma",
+          "countryName": "Itália",
+          "cityUrl": "https://images.unsplash.com/photo-1604580864964-0462f5d5b1a8?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=80&raw_url=true&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470",
+          "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/255px-Flag_of_Italy.svg.png"
+        },
+        {
+          "cityName": "Praga",
+          "countryName": "República Tcheca",
+          "cityUrl": "https://images.unsplash.com/photo-1519677100203-a0e668c92439?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=80&raw_url=true&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470",
+          "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/255px-Flag_of_the_Czech_Republic.svg.png"
+        },
+        {
+          "cityName": "Amsterdã",
+          "countryName": "Holanda",
+          "cityUrl": "https://images.unsplash.com/photo-1512470876302-972faa2aa9a4?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=80&raw_url=true&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470",
+          "flag": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAARMAAAC3CAMAAAAGjUrGAAAAD1BMVEX///+uHCghRousABYLPIffJaIXAAABB0lEQVR4nO3QuRGAAAzAsPDsPzN9XFJAIU3g8xxs83XAD3lSnpQn5Ul5Up6UJ+VJeVKelCflSXlSnpQn5Ul5Up6UJ+VJeVKelCflSXlSnpQn5Ul5Up6UJ+VJeVKelCflSXlSnpQn5Ul5Up6UJ+VJeVKelCflSXlSnpQn5Ul5Up6UJ+VJeVKe1FxsAwAAAAAAAAAAAAAAAAAAAMB7N9ucbJ6UJ+VJeVKelCflSXlSnpQn5Ul5Up6UJ+VJeVKelCflSXlSnpQn5Ul5Up6UJ+VJeVKelCflSXlSnpQn5Ul5Up6UJ+VJeVKelCflSXlSnpQn5Ul5Up6UJ+VJeVKelCflSXlSnpQn5Uk9Q6/I4nGDdNoAAAAASUVORK5CYII="
+        }
+      ] 
+    },
+    { 
+      "id": 6, 
+      "slug": "oceania",
+      "name": "Oceania",
+      "shortDescription":"O continente mais novo",
+      "bgSlide": "/images/slide/oceania.jpg",
+      "bgImage": "https://images.unsplash.com/photo-1588001400947-6385aef4ab0e?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=80&raw_url=true&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074",
+      "description": "A Oceania é um continente localizado ao sudeste da Ásia, banhado pelos oceanos Índico e Pacífico. É o menor dentre os continentes, o mais isolado e, por isso, o último a ser descoberto e conquistado pelos europeus, sendo por isso chamado de “novíssimo mundo”.",
+      "qtdCountry": "14",
+      "qtdLanguage": "27",
+      "qtdCityPlus100": "3",
+      "cityPlus100": [
+        {
+          "cityName": "Canberra",
+          "countryName": "Austrália",
+          "cityUrl": "https://images.unsplash.com/photo-1510546020578-a35ae9fcfb0f?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=80&raw_url=true&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1504",
+          "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/1200px-Flag_of_Australia_%28converted%29.svg.png"
+        },
+        {
+          "cityName": "Wellington",
+          "countryName": "Nova Zelândia",
+          "cityUrl": "https://images.unsplash.com/photo-1587803855433-ef37267f70f5?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=80&raw_url=true&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074",
+          "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/255px-Flag_of_New_Zealand.svg.png"
+        },
+        {
+          "cityName": "Port Moresby",
+          "countryName": "Papua Nova Guiné",
+          "cityUrl": "https://images.unsplash.com/photo-1629338208836-c7cb2f0dbcae?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=80&raw_url=true&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470",
+          "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Flag_of_Papua_New_Guinea.svg/1200px-Flag_of_Papua_New_Guinea.svg.png"
+        }
+      ] 
+    }
+  ]
+}
