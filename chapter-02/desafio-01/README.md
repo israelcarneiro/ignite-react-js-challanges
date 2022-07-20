@@ -223,8 +223,6 @@ Está com dúvidas (ou curioso 👀) para ver como deve ficar a aplicação ao f
 
 Esse desafio deve ser entregue a partir da plataforma da Rocketseat. Envie o link do repositório que você fez suas alterações. Após concluir o desafio, além de ter mandado o código para o GitHub, fazer um post no Linkedin é uma boa forma de demonstrar seus conhecimentos e esforços para evoluir na sua carreira para oportunidades futuras.
 
-<h1 align="center">
-  <img alt="test" title="test" src=".github/test.png">
-</h1>
+
 
 ## 📖 [Notion](https://www.notion.so/Desafio-01-Criando-um-hook-de-carrinho-de-compras-5769216778794019a83f544e79167b12)
