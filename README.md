@@ -19,7 +19,7 @@
 ### Chapter III
 
 - [Desafio 01 - Criando uma aplicação do zero](https://github.com/israelcarneiro/ignite-react-js-challenges/tree/main/chapter-03/desafio-01)
-- [Desafio 02 - Adicionando features ao blog](https://github.com/israelcarneiro/ignite-react-js-challenges/tree/main/chapter-03/desafio-02)
+
 
 ### Chapter IV
 
